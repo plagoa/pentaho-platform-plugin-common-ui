@@ -17,7 +17,7 @@ define([
   "module",
   "./simple",
   "../util/date",
-  "../i18n!types"
+  "../i18n-legacy!types"
 ], function(module, simpleFactory, date, bundle) {
 
   "use strict";

@@ -50,7 +50,7 @@
   requirePaths["pentaho/util"] = basePath + "/pentaho/util";
   requirePaths["pentaho/visual"] = basePath + "/pentaho/visual";
   requirePaths["pentaho/service"] = basePath + "/pentaho/service";
-  requirePaths["pentaho/i18n"] = basePath + "/pentaho/i18n";
+  requirePaths["pentaho/i18n-legacy"] = basePath + "/pentaho/i18n";
   requirePaths["pentaho/shim"] = basePath + "/pentaho/shim";
   requirePaths["pentaho/GlobalContextVars"] = basePath + "/pentaho/GlobalContextVars";
 

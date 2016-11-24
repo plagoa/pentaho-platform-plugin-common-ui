@@ -38,7 +38,7 @@ define([
 
   "pentaho/lang/ActionResult",
 
-  "pentaho/i18n!type",
+  "pentaho/i18n-legacy!type",
 
   // pre-load all visual role mapping types
   "../role/mapping",

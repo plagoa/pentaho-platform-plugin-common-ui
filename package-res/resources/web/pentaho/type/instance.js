@@ -17,7 +17,7 @@ define([
   "module",
   "./_type",
   "./SpecificationScope",
-  "../i18n!types",
+  "../i18n-legacy!types",
   "../lang/Base",
   "../util/error",
   "../util/object"

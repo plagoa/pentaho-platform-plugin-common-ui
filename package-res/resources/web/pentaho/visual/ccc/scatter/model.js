@@ -16,7 +16,7 @@
 define([
   "module",
   "../metricDotAbstract/model",
-  "pentaho/i18n!../abstract/i18n/model"
+  "pentaho/i18n-legacy!../abstract/i18n/model"
 ], function(module, metricDotAbstractModelFactory, bundle) {
 
   "use strict";

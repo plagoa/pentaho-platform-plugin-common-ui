@@ -22,7 +22,7 @@ define([
   "../lang/ActionResult",
   "../lang/UserError",
   "./changes/ComplexChangeset",
-  "../i18n!types",
+  "../i18n-legacy!types",
   "../util/object",
   "../util/error"
 ], function(module, elemFactory, PropertyTypeCollection, typeUtil,

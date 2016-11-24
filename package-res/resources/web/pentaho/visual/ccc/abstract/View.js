@@ -29,7 +29,7 @@ define([
   "pentaho/visual/color/paletteRegistry",
   "pentaho/visual/role/level",
   "pentaho/data/TableView",
-  "pentaho/i18n!view"
+  "pentaho/i18n-legacy!view"
 ], function(module, View, selectionModes,
             def, pvc, cdo, pv, Axis,
             util, O, logger, visualColorUtils, visualPaletteRegistry,

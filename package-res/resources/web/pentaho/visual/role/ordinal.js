@@ -15,7 +15,7 @@
  */
 define([
   "module",
-  "pentaho/i18n!messages",
+  "pentaho/i18n-legacy!messages",
   "./mapping"
 ], function(module, bundle, mappingFactory) {
 

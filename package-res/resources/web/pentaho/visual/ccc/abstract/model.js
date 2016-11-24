@@ -16,7 +16,7 @@
 define([
   "module",
   "pentaho/visual/base",
-  "pentaho/i18n!./i18n/model",
+  "pentaho/i18n-legacy!./i18n/model",
   "./types/color",
   "./types/backgroundFill",
   "./types/fontStyle",

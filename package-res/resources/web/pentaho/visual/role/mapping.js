@@ -17,7 +17,7 @@ define([
   "module",
   "./mappingAttribute",
   "./level",
-  "pentaho/i18n!messages",
+  "pentaho/i18n-legacy!messages",
   "pentaho/type/util",
   "pentaho/util/object",
   "pentaho/util/error"

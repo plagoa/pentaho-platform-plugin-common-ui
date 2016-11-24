@@ -1,6 +1,6 @@
 define([
   "pentaho/visual/base/View",
-  "pentaho/i18n!view"
+  "pentaho/i18n-legacy!view"
 ], function(Visual, bundle) {
 
   "use strict";

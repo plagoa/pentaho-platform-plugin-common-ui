@@ -16,7 +16,7 @@
 define([
   "module",
   "../barAbstract/model",
-  "pentaho/i18n!../abstract/i18n/model",
+  "pentaho/i18n-legacy!../abstract/i18n/model",
   "../abstract/types/labelsOption",
   "../abstract/mixins/trendType"
 ], function(module, barAbstractModelFactory, bundle, labelsOptionFactory, trendType) {

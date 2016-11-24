@@ -18,7 +18,7 @@ define([
   "./instance",
   "./util",
   "./ValidationError",
-  "../i18n!types",
+  "../i18n-legacy!types",
   "../lang/_AnnotatableLinked",
   "../util/arg",
   "../util/error",

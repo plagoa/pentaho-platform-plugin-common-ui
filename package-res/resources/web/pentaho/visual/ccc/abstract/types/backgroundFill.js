@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 define([
-  "pentaho/i18n!../i18n/model"
+  "pentaho/i18n-legacy!../i18n/model"
 ], function(bundle) {
 
   "use strict";

@@ -16,7 +16,7 @@
 define([
   "module",
   "pentaho/type/application",
-  "pentaho/i18n!type"
+  "pentaho/i18n-legacy!type"
 ], function(module, applicationFactory, bundle) {
 
   "use strict";

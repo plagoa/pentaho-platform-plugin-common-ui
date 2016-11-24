@@ -19,7 +19,7 @@ define([
   "cdf/lib/CCC/def",
   "../abstract/View",
   "../util",
-  "pentaho/i18n!../abstract/i18n/view"
+  "pentaho/i18n-legacy!../abstract/i18n/view"
 ], function(module, pv, def, AbstractChart, util, bundle) {
 
   "use strict";

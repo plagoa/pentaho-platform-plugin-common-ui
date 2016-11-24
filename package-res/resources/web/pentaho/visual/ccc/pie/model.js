@@ -16,7 +16,7 @@
 define([
   "module",
   "../abstract/model",
-  "pentaho/i18n!../abstract/i18n/model",
+  "pentaho/i18n-legacy!../abstract/i18n/model",
   "../abstract/types/labelsOption",
   "../abstract/mixins/settingsMultiChartType"
 ], function(module, abstractModelFactory, bundle, labelsOptionFactory, settingsMultiChartType) {

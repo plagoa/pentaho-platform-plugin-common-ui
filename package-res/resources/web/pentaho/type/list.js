@@ -21,7 +21,7 @@ define([
   "./element",
   "./util",
   "./SpecificationContext",
-  "../i18n!types",
+  "../i18n-legacy!types",
   "../util/arg",
   "../util/error",
   "../util/object"

@@ -20,7 +20,7 @@ define([
   "../util/object",
   "../util/error",
   "../util/fun",
-  "../i18n!types"
+  "../i18n-legacy!types"
 ], function(module, elemFactory, typeUtil, O, error, F, bundle) {
 
   "use strict";

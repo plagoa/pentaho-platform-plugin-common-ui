@@ -1,7 +1,7 @@
 define([
   "module",
   "pentaho/visual/base/model",
-  "pentaho/i18n!model",
+  "pentaho/i18n-legacy!model",
   "./theme/model"
 ], function(module, visualFactory, bundle) {
 

@@ -16,7 +16,7 @@
 define([
   "module",
   "../abstract/model",
-  "pentaho/i18n!../abstract/i18n/model",
+  "pentaho/i18n-legacy!../abstract/i18n/model",
   "../abstract/types/displayUnits"
 ], function(module, abstractModelFactory, bundle, displayUnitsFactory) {
 

@@ -16,7 +16,7 @@
 define([
   "module",
   "../categoricalContinuousAbstract/model",
-  "pentaho/i18n!../abstract/i18n/model",
+  "pentaho/i18n-legacy!../abstract/i18n/model",
   "../abstract/types/labelsOption",
   "../abstract/types/shape",
   "../abstract/mixins/settingsMultiChartType",

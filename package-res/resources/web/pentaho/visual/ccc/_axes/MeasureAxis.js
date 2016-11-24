@@ -16,7 +16,7 @@
 define([
   "cdf/lib/CCC/def",
   "./AbstractAxis",
-  "pentaho/i18n!../abstract/i18n/view"
+  "pentaho/i18n-legacy!../abstract/i18n/view"
 ], function(def, AbstractAxis) {
 
   "use strict";

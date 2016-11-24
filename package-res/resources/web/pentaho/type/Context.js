@@ -17,7 +17,7 @@ define([
   "require",
   "module",
   "../service",
-  "../i18n!types",
+  "../i18n-legacy!types",
   "./standard",
   "./SpecificationContext",
   "./SpecificationScope",
