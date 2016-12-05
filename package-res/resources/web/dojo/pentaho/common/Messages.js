@@ -172,6 +172,6 @@ define(["dojo/_base/declare", "dijit/_WidgetBase", "dijit/_Templated", "dojo/on"
 
       /* static init */
       moduleDef.init();
-      moduleDef.addUrlBundle('pentaho.common', CONTEXT_PATH + 'i18n?plugin=common-ui&name=resources/web/dojo/pentaho/common/nls/messages');
+      moduleDef.addUrlBundle('pentaho.common', CONTEXT_PATH + 'i18n-legacy?plugin=common-ui&name=resources/web/dojo/pentaho/common/nls/messages');
       return moduleDef;
     });

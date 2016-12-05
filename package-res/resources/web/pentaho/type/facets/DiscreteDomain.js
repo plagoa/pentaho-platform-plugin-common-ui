@@ -17,7 +17,7 @@ define([
   "module",
   "./Refinement",
   "../list",
-  "../../i18n-legacy!../i18n/types",
+  "pentaho/i18n-legacy!../i18n/types",
   "../../util/error",
   "../../util/object",
   "../../util/fun"

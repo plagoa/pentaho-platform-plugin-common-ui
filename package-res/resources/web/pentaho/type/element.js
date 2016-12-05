@@ -16,7 +16,7 @@
 define([
   "module",
   "./value",
-  "../i18n-legacy!types",
+  "../i18n!types",
   "../util/error",
   "../util/fun"
 ], function(module, valueFactory, bundle, error, fun) {

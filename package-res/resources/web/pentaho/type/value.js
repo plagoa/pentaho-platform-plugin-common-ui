@@ -19,7 +19,7 @@ define([
   "./util",
   "./ValidationError",
   "./SpecificationContext",
-  "../i18n-legacy!types"
+  "../i18n!types"
 ], function(module, instanceFactory, typeUtil, ValidationError, SpecificationContext, bundle) {
 
   "use strict";

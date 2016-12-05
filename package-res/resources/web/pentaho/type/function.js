@@ -18,7 +18,7 @@ define([
   "./simple",
   "../util/fun",
   "../util/logger",
-  "../i18n-legacy!types"
+  "../i18n!types"
 ], function(module, simpleFactory, F, logger, bundle) {
 
   "use strict";

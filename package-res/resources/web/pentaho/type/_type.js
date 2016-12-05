@@ -17,7 +17,7 @@ define([
   "require",
   "./SpecificationScope",
   "./SpecificationContext",
-  "../i18n-legacy!types",
+  "../i18n!types",
   "../lang/Base",
   "../lang/_AnnotatableLinked",
   "../util/error",

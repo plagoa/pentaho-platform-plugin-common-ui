@@ -21,7 +21,7 @@ define([
   "../util/object",
   "../util/error",
   "../util/fun",
-  "../i18n-legacy!types"
+  "../i18n!types"
 ], function(localRequire, module, RefinementFacet, typeUtil, O, error, F, bundle) {
 
   "use strict";
